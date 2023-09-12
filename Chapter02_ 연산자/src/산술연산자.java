@@ -80,7 +80,7 @@ public abstract class 산술연산자 {
 		 */
 		 
 		 //평균 
-		 System.out.println('A'+'B'); // 65+66
+		 System.out.println('A'+'B'); // 65+66= 131 
 		 //int 이하 (byte, char, short)   연산 => 결과값 int
 		 
 	}

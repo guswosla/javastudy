@@ -34,10 +34,7 @@
     double d=10    d=10.0
     double d=10.5F d=10.5
     double d=10L   d=10.5
-        
-          
-   
-   
+  
  */
 public class 자바변수 {
 

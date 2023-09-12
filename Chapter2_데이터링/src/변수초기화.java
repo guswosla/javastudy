@@ -16,11 +16,11 @@
  * 
  * 
  */
-import java. util. Scanner; //자바에 없을 때 가져올 때 import
+ // import java. util. Scanner; //자바에 없을 때 가져올 때 import
 
-public class 변수초기화 {
+ //  public class 변수초기화 {
 
-	public static void main(String[] args) {
+//	public static void main(String[] args) {
 		// TODO Auto-generated method stub
  /*int a=100;
  int b=(int)( Math.random()*100); 
@@ -31,12 +31,12 @@ System.out.println("정수입력:");
 int c= scan.nextInt();
 System.out.println(c);*/
 		
-		int a=10;
-		int b=0;
+//		int a=10;
+//		int b=0;
 		//a=20, b=10
-		int temp=a; //temp는 빈박스(빈변수) 변수끼리 값교환시 미리 temp에 저장해서 바꿔줌
-		a=b; // a=20
-		a=b; // b=20
+//		int temp=a; //temp는 빈박스(빈변수) 변수끼리 값교환시 미리 temp에 저장해서 바꿔줌
+//		a=b; // a=20
+//		a=b; // b=20
 		
 		
 		
@@ -44,6 +44,6 @@ System.out.println(c);*/
  
 
 
-	}
+  //	}
 
-}
+ //  }
