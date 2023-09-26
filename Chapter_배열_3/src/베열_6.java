@@ -69,10 +69,12 @@ public class 베열_6 {
 	        			alpha[j]=temp;
 	        		}
 	        	}
+	        //	ll
 	        	System.out.println((i+1)+"Round==>"+alpha[i]);
 	        	System.out.println(Arrays.toString(alpha));
 	        }
 	        System.out.println(Arrays.toString(alpha));
 		}
+
 
 	}
